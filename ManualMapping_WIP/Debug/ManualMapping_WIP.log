@@ -1,0 +1,3 @@
+﻿  ManualMapInject.cpp
+C:\Users\StormTuchek\source\repos\ManualMapping_WIP\ManualMapping_WIP\ManualMapInject.cpp(111): warning C4715: 'ManualMap': not all control paths return a value
+  ManualMapping_WIP.vcxproj -> C:\Users\StormTuchek\source\repos\ManualMapping_WIP\Debug\ManualMapping_WIP.exe
